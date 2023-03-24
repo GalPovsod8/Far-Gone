@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 6081f06a8c988cf479757a917887bc13
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Hue/Saturation 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16012
+      y: 12985
+      width: 0
+      height: 0
+    spriteID: 73a110f3c50b9cc4ca39e19400f5ec47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 16012, y: 12985}
+    spritePosition: {x: 0, y: 2160}
+  - name: Vignette
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 7680
+      height: 2160
+    spriteID: 658daaa144f0523499f02946e50afe70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Fog8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 13797
+      width: 7680
+      height: 522
+    spriteID: 3c222384a2069bc478797e1e35b19825
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 13797}
+    spritePosition: {x: 0, y: 0}
+  - name: FrontGround
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 12985
+      width: 7680
+      height: 732
+    spriteID: eff3f0abe32c78d429293c78fffa9db2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 12985}
+    spritePosition: {x: 0, y: 0}
+  - name: MainGround
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 10973
+      width: 7680
+      height: 1038
+    spriteID: 6fb9752dfd37fd947afa1da971826c1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 10973}
+    spritePosition: {x: 0, y: 0}
+  - name: VLAK
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 3814
+      width: 2136
+      height: 138
+    spriteID: 26291dccad9b1094e8f74111fb87b2db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 3814}
+    spritePosition: {x: 1704, y: 333}
+  - name: trees
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 14422
+      width: 7663
+      height: 315
+    spriteID: 0538aeb1d306f9947bcf62dd40875ef1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 14422}
+    spritePosition: {x: 17, y: 206}
+  - name: Fog8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 13797
+      width: 7680
+      height: 617
+    spriteID: b87e680d1d36abf4bac30441db92d1a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 13797}
+    spritePosition: {x: 0, y: 0}
+  - name: H1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 12985
+      width: 7680
+      height: 804
+    spriteID: 91a1e22fca2014d4ebe09455f9c23465
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 12985}
+    spritePosition: {x: 0, y: 0}
+  - name: Fog7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 12040
+      width: 7680
+      height: 937
+    spriteID: 0b6302e712b99944b81b39284381ce3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 12040}
+    spritePosition: {x: 0, y: 0}
+  - name: H2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 12040
+      width: 7680
+      height: 874
+    spriteID: 0532014ab6b063d4491b7e241b01f23d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 12040}
+    spritePosition: {x: 0, y: 0}
+  - name: Fog6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 10973
+      width: 7680
+      height: 1059
+    spriteID: 2291f7e289dbaa24ca04db512cb8b6fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 10973}
+    spritePosition: {x: 0, y: 0}
+  - name: H3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 9777
+      width: 7680
+      height: 1185
+    spriteID: 44f09d3fc40bd9a4c8e1d3161a8036e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 9777}
+    spritePosition: {x: 0, y: 0}
+  - name: Fog5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7198
+      width: 7680
+      height: 1308
+    spriteID: 62ca6c4052a6d354c8ba806d48409615
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 7198}
+    spritePosition: {x: 0, y: 0}
+  - name: MT1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 8514
+      width: 7680
+      height: 1252
+    spriteID: 30a434ff5fc24fd40af64e4612ea70a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 8514}
+    spritePosition: {x: 0, y: 0}
+  - name: Fog4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 7198
+      width: 7637
+      height: 1308
+    spriteID: 3d97349196d06944aa80ca80ae709c05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 7198}
+    spritePosition: {x: 43, y: 0}
+  - name: MT2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5716
+      width: 7680
+      height: 1471
+    spriteID: bd69573fbc46fe948a4a4f3b4305f17e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 5716}
+    spritePosition: {x: 0, y: 0}
+  - name: Fog3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 8514
+      width: 7680
+      height: 1195
+    spriteID: ace4e1a3586c00f46a4d71d76bb7754c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 8514}
+    spritePosition: {x: 0, y: 0}
+  - name: MT3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 4112
+      width: 7680
+      height: 1527
+    spriteID: 1ebd78d485d17bc47826cec36dc04673
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 4112}
+    spritePosition: {x: 0, y: 0}
+  - name: Fog2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 2172
+      width: 7680
+      height: 1634
+    spriteID: cf0b0834aa34cc8408c16a5ce6c99b07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 2172}
+    spritePosition: {x: 0, y: 0}
+  - name: MT4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4112
+      width: 7680
+      height: 1592
+    spriteID: e2cb14d2c75e7a646804687f4e201619
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4112}
+    spritePosition: {x: 0, y: 0}
+  - name: Fog1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 5716
+      width: 7680
+      height: 1403
+    spriteID: b41a7f20d80c25c4ba6c64c5c5c0c0c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 5716}
+    spritePosition: {x: 0, y: 378}
+  - name: mist
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 9777
+      width: 7537
+      height: 1155
+    spriteID: 5255c10444411484e8a51264d97a113a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 9777}
+    spritePosition: {x: 0, y: 631}
+  - name: sun
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 15380
+      y: 12985
+      width: 624
+      height: 624
+    spriteID: 9df6b0735c67d944bb1e180dfaac6d43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 15380, y: 12985}
+    spritePosition: {x: 6241, y: 584}
+  - name: SONCNI VZHOD - POPOLDNE (OPACITY 84  - 0)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16012
+      y: 12993
+      width: 0
+      height: 0
+    spriteID: 517016ed72bd4c54cad020b1e0d2648e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 16012, y: 12993}
+    spritePosition: {x: 0, y: 2160}
+  - name: Foreground 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2172
+      width: 7680
+      height: 1932
+    spriteID: ddcf3d4336c609c4a978406f6f6e0675
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2172}
+    spritePosition: {x: 0, y: 228}
+  - name: Layer 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7692
+      y: 4
+      width: 7680
+      height: 2160
+    spriteID: 156e55aefa9a24143a0b11c0b708ca5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7692, y: 4}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Hue/Saturation 1
+    spriteName: Hue/Saturation 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 73a110f3c50b9cc4ca39e19400f5ec47
+    layerID: 181
+    mosaicPosition: {x: 16012, y: 12985}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vignette
+    spriteName: Vignette
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 658daaa144f0523499f02946e50afe70
+    layerID: 194
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fog8
+    spriteName: Fog8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3c222384a2069bc478797e1e35b19825
+    layerID: 137
+    mosaicPosition: {x: 7692, y: 13797}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: FrontGround
+    spriteName: FrontGround
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eff3f0abe32c78d429293c78fffa9db2
+    layerID: 264
+    mosaicPosition: {x: 7692, y: 12985}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: MainGround
+    spriteName: MainGround
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6fb9752dfd37fd947afa1da971826c1c
+    layerID: 16
+    mosaicPosition: {x: 7692, y: 10973}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: VLAK
+    spriteName: VLAK
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 26291dccad9b1094e8f74111fb87b2db
+    layerID: 63
+    mosaicPosition: {x: 7692, y: 3814}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: trees
+    spriteName: trees
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0538aeb1d306f9947bcf62dd40875ef1
+    layerID: 266
+    mosaicPosition: {x: 4, y: 14422}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fog8
+    spriteName: Fog8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b87e680d1d36abf4bac30441db92d1a0
+    layerID: 136
+    mosaicPosition: {x: 4, y: 13797}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: H1
+    spriteName: H1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 91a1e22fca2014d4ebe09455f9c23465
+    layerID: 206
+    mosaicPosition: {x: 4, y: 12985}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fog7
+    spriteName: Fog7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0b6302e712b99944b81b39284381ce3e
+    layerID: 135
+    mosaicPosition: {x: 4, y: 12040}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: H2
+    spriteName: H2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0532014ab6b063d4491b7e241b01f23d
+    layerID: 202
+    mosaicPosition: {x: 7692, y: 12040}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fog6
+    spriteName: Fog6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2291f7e289dbaa24ca04db512cb8b6fa
+    layerID: 134
+    mosaicPosition: {x: 4, y: 10973}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: H3
+    spriteName: H3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 44f09d3fc40bd9a4c8e1d3161a8036e1
+    layerID: 190
+    mosaicPosition: {x: 4, y: 9777}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fog5
+    spriteName: Fog5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 62ca6c4052a6d354c8ba806d48409615
+    layerID: 133
+    mosaicPosition: {x: 4, y: 7198}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: MT1
+    spriteName: MT1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 30a434ff5fc24fd40af64e4612ea70a0
+    layerID: 188
+    mosaicPosition: {x: 4, y: 8514}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fog4
+    spriteName: Fog4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3d97349196d06944aa80ca80ae709c05
+    layerID: 132
+    mosaicPosition: {x: 7692, y: 7198}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: MT2
+    spriteName: MT2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bd69573fbc46fe948a4a4f3b4305f17e
+    layerID: 186
+    mosaicPosition: {x: 4, y: 5716}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fog3
+    spriteName: Fog3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ace4e1a3586c00f46a4d71d76bb7754c
+    layerID: 131
+    mosaicPosition: {x: 7692, y: 8514}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: MT3
+    spriteName: MT3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1ebd78d485d17bc47826cec36dc04673
+    layerID: 184
+    mosaicPosition: {x: 7692, y: 4112}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fog2
+    spriteName: Fog2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cf0b0834aa34cc8408c16a5ce6c99b07
+    layerID: 130
+    mosaicPosition: {x: 7692, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: MT4
+    spriteName: MT4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e2cb14d2c75e7a646804687f4e201619
+    layerID: 182
+    mosaicPosition: {x: 4, y: 4112}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fog1
+    spriteName: Fog1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b41a7f20d80c25c4ba6c64c5c5c0c0c6
+    layerID: 129
+    mosaicPosition: {x: 7692, y: 5716}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: mist
+    spriteName: mist
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5255c10444411484e8a51264d97a113a
+    layerID: 196
+    mosaicPosition: {x: 7692, y: 9777}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: sun
+    spriteName: sun
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9df6b0735c67d944bb1e180dfaac6d43
+    layerID: 195
+    mosaicPosition: {x: 15380, y: 12985}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: SONCNI VZHOD - POPOLDNE (OPACITY 84  - 0)
+    spriteName: SONCNI VZHOD - POPOLDNE (OPACITY 84  - 0)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 517016ed72bd4c54cad020b1e0d2648e
+    layerID: 67
+    mosaicPosition: {x: 16012, y: 12993}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Foreground 1
+    spriteName: Foreground 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ddcf3d4336c609c4a978406f6f6e0675
+    layerID: 9
+    mosaicPosition: {x: 4, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 0
+    spriteName: Layer 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 156e55aefa9a24143a0b11c0b708ca5d
+    layerID: 278
+    mosaicPosition: {x: 7692, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
